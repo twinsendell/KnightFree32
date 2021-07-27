@@ -1,14 +1,17 @@
-## Getting Started
+The code should be interpreted by asigning a number to each cell like this:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+0 1 2 3 
 
-## Folder Structure
+4 5 6 7
 
-The workspace contains two folders by default, where:
+8 9 10 11
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+12 13 14 15
 
-## Dependency Management
+16 17 18 19
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+20 21 22 23
+
+24 25 26 27
+
+28 29 30 31
